@@ -6,7 +6,7 @@ require("checkUser.php");
 $sql="SELECT * from user where user_id=$_GET[id]";
 
 $rows=ExecuteQuery($sql);
-$row = mysql_fetch_array($rows);
+$row = mysqli_fetch_array($rows);
 ?>
 <script type="text/javascript">
 function check(f)
