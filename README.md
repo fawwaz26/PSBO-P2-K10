@@ -9,7 +9,7 @@
 [`^ kembali ke atas ^`](#)
 
 #### User Analysis
-
+Sebagai mahasiswa IPB, keresahan hanya dapat dipendam sendiri dan teman terdekat tanpa adanya penyaluran keresahan terkait kegiatan atau kebijakan kampus, oleh karena itu saya ingin keresahan mahasiswa dapat terselurkan ke pihak yang bersangkutan tanpa takut identitas diketahui
 
 #### Spesifikasi
 
