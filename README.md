@@ -18,7 +18,12 @@ Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga t
 
 
 #### Spesifikasi
-Visual Code Studio, PHP Native, CSS
+##### Software
+Visual Code Studio, PHP Native, CSS, mySQL, Github
+
+##### Hardware
+Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
+
 
 
 # Konsep OOP
