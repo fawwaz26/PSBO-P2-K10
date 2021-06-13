@@ -8,8 +8,8 @@
 # Deskripsi
 [`^ kembali ke atas ^`](#)
 
-#### Nama Aplikasi
-Nama aplikasi adalah media forum berbasis web untuk para mahasiswa IPB berpendapat secara anonim. 
+#### Forum Menfess IPB
+Forum Menfess IPB adalah media forum berbasis web untuk para mahasiswa IPB berpendapat secara anonim. 
 
 #### User Analysis
 Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga tidak ingin identitas saya diketahui ketika saya berpendapat agar dapat berpendapat berpendapat dengan lebih leluasa.  
