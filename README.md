@@ -8,8 +8,11 @@
 # Deskripsi
 [`^ kembali ke atas ^`](#)
 
+#### Nama Aplikasi
+Nama aplikasi adalah media forum berbasis web untuk para mahasiswa IPB berpendapat secara anonim. 
+
 #### User Analysis
-Sebagai mahasiswa IPB, keresahan hanya dapat dipendam sendiri dan teman terdekat tanpa adanya penyaluran keresahan terkait kegiatan atau kebijakan kampus, oleh karena itu saya ingin keresahan mahasiswa dapat terselurkan ke pihak yang bersangkutan tanpa takut identitas diketahui
+Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga tidak ingin identitas saya diketahui ketika saya berpendapat agar dapat berpendapat berpendapat dengan lebih leluasa.  
 
 #### Spesifikasi
 
