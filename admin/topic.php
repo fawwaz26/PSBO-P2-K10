@@ -16,7 +16,7 @@ require("checkUser.php");
 	$rows=ExecuteQuery($sql);
 	echo "<table border='1'>";
 	echo "<strong><tr><th>Number</th><th>Topic name</th><th>Topic type</th><th>Edit</th><th >Delete</th></tr></strong>";
-	while($name_row=mysql_fetch_row($rows))
+	while($name_row=mysqli_fetch_row($rows))
 	{
 		echo"<tr>";
 		echo "<td>{$name_row[0]}</td><td >{$name_row[1]}</td><td>{$name_row[2]}</td><td ><a  href='tedit.php?id=".$name_row[0]."' ><img src='../res/images/edit.jpg'  class='imagedel' /></a></td><td><a href='tdelete.php?id=".$name_row[0]."'><img src='../res/images/delete.jpg'  class='imagedel'/></a></td>";

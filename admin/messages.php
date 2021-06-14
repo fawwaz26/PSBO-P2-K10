@@ -16,11 +16,11 @@ require("checkUser.php")?>
 	
 	$rows = ExecuteQuery ($sql);
 	
-	while ($row = mysql_fetch_array($rows))
+	while ($row = mysqli_fetch_array($rows))
 	{
 		echo "<a href='readmsg.php?id=$row[chat_id]'>$row[fullname]</a>";
 		
-		$chatrow = mysql_fetch_array (ExecuteQuery ("SELECT * FROM chat WHERE chat_id=$row[chat_id] ORDER BY cdatetime DESC"));
+		$chatrow = mysqli_fetch_array (ExecuteQuery ("SELECT * FROM chat WHERE chat_id=$row[chat_id] ORDER BY cdatetime DESC"));
 		
 		if ($chatrow)
 		{
@@ -37,12 +37,12 @@ require("checkUser.php")?>
 	
 	$rows = ExecuteQuery ($sql);
 	
-	while ($row = mysql_fetch_array($rows))
+	while ($row = mysqli_fetch_array($rows))
 	{
 		echo "<a href='readmsg.php?id=$row[chat_id]'>$row[fullname]</a>";
 	
 		
-		$chatrow = mysql_fetch_array (ExecuteQuery ("SELECT * FROM chat WHERE chat_id=$row[chat_id] ORDER BY cdatetime DESC"));
+		$chatrow = mysqli_fetch_array (ExecuteQuery ("SELECT * FROM chat WHERE chat_id=$row[chat_id] ORDER BY cdatetime DESC"));
 		
 		if ($chatrow)
 		{
