@@ -9,7 +9,7 @@ require("checkUser.php");
 	$sql="INSERT INTO chatmaster (user_id_from,user_id_to) values ($_SESSION[uid],$uto)";
 	$result = ExecuteNonQuery($sql);
 	$sql = "SELECT MAX(chat_id) as cid FROM chatmaster";
-	$row = mysql_fetch_array (ExecuteQuery ($sql));
+	$row = mysqli_fetch_array (ExecuteQuery ($sql));
 	$cid = $row['cid'];
 	
 	

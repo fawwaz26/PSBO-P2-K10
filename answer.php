@@ -20,7 +20,7 @@ require("checkUser.php")?>
 <?php
 $sql="SELECT heading from question where question_id=$_GET[id]";
 $rows=ExecuteQuery($sql);
-$row=mysql_fetch_array($rows);
+$row=mysqli_fetch_array($rows);
 ?>
 
 <form action="answerH.php" method="POST" onsubmit="return check(this)">

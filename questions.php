@@ -12,14 +12,14 @@
 	$str="SELECT * FROM question, user WHERE question.user_id=user.user_id and subtopic_id=$id";
 	$result=ExecuteQuery($str);
 	
-	$no_rows = mysql_num_rows($result);
+	$no_rows = mysqli_num_rows($result);
 	
 	if ($no_rows > 0)
 	{
-		while($row = mysql_fetch_array($result))
+		while($row = mysqli_fetch_array($result))
 		{
 			$rowsc=ExecuteQuery("SELECT count(*) as counter from answer where question_id=$row[question_id]");
-			$rowc = mysql_fetch_array($rowsc);
+			$rowc = mysqli_fetch_array($rowsc);
 			$count = $rowc['counter'];
 			
 			echo "<h4>";
@@ -32,7 +32,7 @@
 			echo "$row[question_detail] <span class='view2'>Views : $row[views], Replies :$count</span>";
 			echo "<br/><br/>";
 			
-			echo "Asked by<br/>$row[fullname]";
+			//echo "Asked by<br/>$row[fullname]";
 		
 			echo "<br/><div class='line'></div>";
 			//echo  "<a href='answer.php?qid=$row[question_id]' class='reply'>REPLY</a>";

@@ -9,7 +9,7 @@
 $sql="SELECT * from question where user_id=$_SESSION[uid]";
 $result=ExecuteQuery($sql);
 	
-		while($row = mysql_fetch_array($result))
+		while($row = mysqli_fetch_array($result))
 		{
 		
 		echo "<span class='box2'>";

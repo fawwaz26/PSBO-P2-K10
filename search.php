@@ -36,11 +36,11 @@ $uto=$_POST['utos'];
 $sql="SELECT * FROM user WHERE fullname LIKE '$uto%'";
 $rows=ExecuteQuery($sql);
 
-if (mysql_num_rows($rows) > 0)
+if (mysqli_num_rows($rows) > 0)
 {
 	echo "<table cellpadding='2' cellspacing='2'>";
 	
-	while ($row = mysql_fetch_array($rows))
+	while ($row = mysqli_fetch_array($rows))
 	{
 		echo "<tr>";
 		echo "<td valign='top'><img src='$row[uimg]' alt='' style='height:100px; width:100px;' />";

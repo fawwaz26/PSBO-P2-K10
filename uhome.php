@@ -27,7 +27,6 @@
 			echo "<tr><td valign='top' width='100px'>
 				<img src='$row[uimg]' alt='' class='uimg'/>
 				<br/>
-			$row[fullname]
 			<td valign='top'>
 			$row[question_detail]<br/><br/>
 			$row[datetime]<br/><br/>

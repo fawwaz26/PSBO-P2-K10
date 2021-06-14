@@ -11,7 +11,7 @@
 <?php
 	$rows = ExecuteQuery ("SELECT user_id_from, (select fullname from user where user_id=user_id_from) as fromname,  user_id_to, (select fullname from user where user_id=user_id_to) as toname FROM chatmaster where chat_id=$_GET[id]");
 	
-	$row = mysql_fetch_array ($rows);
+	$row = mysqli_fetch_array ($rows);
 	
 	$fromid = $row["user_id_from"];
 	$toid = $row["user_id_to"];
@@ -22,7 +22,7 @@
 	$rows = ExecuteQuery ($sql);
 
 
-	while ($row = mysql_fetch_array($rows))
+	while ($row = mysqli_fetch_array($rows))
 	{
 		if ($row["user_id"] == $fromid)
 			echo "<strong>$from</strong><br/><br/>";

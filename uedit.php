@@ -79,9 +79,9 @@ $sql="SELECT * from user where user_id=$_SESSION[uid]";
  
 	$rows = ExecuteQuery($sql);
 	
-	if (mysql_num_rows($rows)>0)
+	if (mysqli_num_rows($rows)>0)
 	{
-		$row = mysql_fetch_array ($rows);
+		$row = mysqli_fetch_array ($rows);
 		echo "<table>";
 		echo "<tr><td>User Name</td><td> : </td><td><input type='text' name='un' value='$row[username]' ><span id='a' style='color: red';/></span></td></tr>";
 		echo "<tr><td>Full Name</td><td> : </td><td><input type='text' name='fn' value='$row[fullname]' ><span id='b' style='color: red';/></span></td></tr>";

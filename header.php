@@ -37,8 +37,8 @@ ob_start();
                 <div class="art-Header">
                     <div class="art-Header-jpg"></div>
                     <div class="art-Logo">
-                        <h1 id="name-text" class="art-Logo-name"><a href="https://code-projects.org/">Discussion Forum</a></h1>
-                        <div id="slogan-text" class="art-Logo-text"><b>Brought To You By Code-Projects</b></div>
+                        <h1 id="name-text" class="art-Logo-name"><a href="https://code-projects.org/">IPB Menfess</a></h1>
+                        <div id="slogan-text" class="art-Logo-text"><b>Forum keluh kesah mahasiswa IPB</b></div>
                     </div>
                 </div>
                 <div class="art-nav">
