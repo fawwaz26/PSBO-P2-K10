@@ -43,6 +43,15 @@ Lorem Ipsum
 [`^ kembali ke atas ^`](#)
 #### Use Case Diagram
 <h1 align="left"><img src="Usecase_PSBO.png"></h1>
+
+#### Activity Diagram
+##### Pembuat Post
+![Activity Diagram Post](https://user-images.githubusercontent.com/48718969/121915783-bc50da00-cd5d-11eb-9d79-c218595254ac.png)
+
+##### Pembalas Post
+![Activity Diagram reply](https://user-images.githubusercontent.com/48718969/121915828-c8d53280-cd5d-11eb-88b5-bcb6489e074b.png)
+
+
 Lorem Ipsum
 
 
