@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://1.bp.blogspot.com/-3za0XKJuLSc/WNfUgBtwwFI/AAAAAAAAGiQ/ADAfpkEiUn0w6FHDjMpt-i3PzYyMBtNQQCLcB/s1600/1.png"></h1>
+![Logo-IPB-University-Vertical](https://user-images.githubusercontent.com/48718969/122053687-2a0a0e00-ce11-11eb-875a-a71457a2b178.png)
+
 
 [Deskripsi](#deskripsi) | [Konsep OOP](#konsep-oop) | [Tipe Desain Pengembangan](#tipe-desain-pengembangan) | [Hasil dan Pembahasan](#hasil-dan-pembahasan) | [Hasil Implementasi](#hasil-implementasi) | [Saran](#saran) | [Developer dan Jobdesk](#developer-dan-jobdesk)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
