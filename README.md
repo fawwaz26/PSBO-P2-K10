@@ -31,10 +31,10 @@ Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
 [`^ kembali ke atas ^`](#)
 
 #### Enkapsulasi
-
+lorem ipsum
 
 #### Enheritance
-
+lorem ipsum
 
 # Tipe Desain Pengembangan
 [`^ kembali ke atas ^`](#)
