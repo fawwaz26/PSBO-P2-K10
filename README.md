@@ -7,7 +7,7 @@
 
 
 # Deskripsi Singkat Aplikasi
-[`^ kembali ke atas ^`](#)
+
 Forum Menfess IPB adalah media forum berbasis web untuk para mahasiswa IPB berpendapat secara anonim.
 
 
