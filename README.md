@@ -57,6 +57,12 @@ Alasan kami menggunakan waterfall method adalah karena memiliki tahapan yang lin
 ##### Pembalas Post
 ![Activity Diagram reply](https://user-images.githubusercontent.com/48718969/121915828-c8d53280-cd5d-11eb-88b5-bcb6489e074b.png)
 
+#### Entity Relationship Diagram
+![erd](https://user-images.githubusercontent.com/48718969/122077122-a870ab00-ce25-11eb-9476-07c8f5ecca91.png)
+
+#### Class Diagram
+![classsdiagram](https://user-images.githubusercontent.com/48718969/122077167-b292a980-ce25-11eb-9475-7f94e67074c3.png)
+
 
 
 # Hasil Implementasi
