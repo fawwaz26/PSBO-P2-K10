@@ -33,10 +33,12 @@ Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
 Pengertian OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorientasi kepada objek. Tujuan dari OOP diciptakan adalah untuk mempermudah pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari. Jadi setiap bagian dari suatu permasalahan adalah objek, nah objek itu sendiri merupakan gabungan dari beberapa objek yang lebih kecil lagi.
 
 #### Enkapsulasi
-lorem ipsum
 
-#### Enheritance
-lorem ipsum
+**Enkapsulasi** adalah salah satu yang paling terpenting di dalam pemrograman berorientasi objek(OOP). karena tahap enkapsulasi lah yang menentukan pemberian hak akses pada setiap property atau method.
+
+#### Inheritance
+
+**Inheritance** atau pewarisan sifat merupakan class turunan dari class yang lainnya. inheritance di buat dengan membuat class baru dengan tujuan di hubungkan dengan class yang lain yang di inginkan. dengan tujuan untuk mendapatkan informasi atau data dari class yang di hubungkan tersebut.
 
 # Tipe Desain Pengembangan
 [`^ kembali ke atas ^`](#)
