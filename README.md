@@ -82,13 +82,13 @@ Lorem Ipsum
 # Developer & Jobdesk
 [`^ kembali ke atas ^`](#)
 
-| Nama                   |      NIM        |    Jobdesk     |
-| ---------------------- | --------------- | -------------- |
-| Yuda Baskara           | Project Manager |  Content Cell  |
-| Ahmad Tedy Murtadho    | Back End        |  Content Cell  |
-| Muhammad Andhika Gema  | UI/UX Designer  |  Content Cell  |
-| Fawwaz Khairi          | Front End       |  Content Cell  |
-| Muhammad Khadafi       | System Analyst  |  Content Cell  |
+| Nama                   |      NIM        |      Jobdesk     |
+| ---------------------- | --------------- | ---------------- |
+| Yuda Baskara           | G64180046       |  Project Manager |
+| Ahmad Tedy Murtadho    | G64180082       |  Back End        |
+| Muhammad Andhika Gema  | G64180055       |  UI/UX Designer  |
+| Fawwaz Khairi          | G64180042       |  Front End       |
+| Muhammad Khadafi       | G64180039       |  System Analyst  |
 
 
 
