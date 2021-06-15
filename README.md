@@ -29,6 +29,7 @@ Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
 
 # Konsep OOP
 [`^ kembali ke atas ^`](#)
+
 Pengertian OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorientasi kepada objek. Tujuan dari OOP diciptakan adalah untuk mempermudah pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari. Jadi setiap bagian dari suatu permasalahan adalah objek, nah objek itu sendiri merupakan gabungan dari beberapa objek yang lebih kecil lagi.
 
 #### Enkapsulasi
