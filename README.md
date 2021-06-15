@@ -30,7 +30,10 @@ Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
 # Konsep OOP
 [`^ kembali ke atas ^`](#)
 
+#### Enkapsulasi
 
+
+#### Enheritance
 
 
 # Tipe Desain Pengembangan
