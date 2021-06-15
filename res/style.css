@@ -98,10 +98,10 @@ body
 
 #art-page-background-glare-image
 {
-	background-image: url('images/Page-BgGlare.png');
+	background-image: url('images/BG.png');
 	background-repeat: no-repeat;
-	height: 239px;
-	width: 389px;
+	height: 1080px;
+	width: 1920px;
 	margin: 0;
 }
 
@@ -520,7 +520,7 @@ h1.art-Logo-name, h1.art-Logo-name a, h1.art-Logo-name a:link, h1.art-Logo-name 
 {
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	font-size: 14px;
-	color: #071E27;
+	color: #ffffff;
 	padding: 0 14px;
 	margin: 0 9px;
 	line-height: 27px;
@@ -704,7 +704,7 @@ h1.art-Logo-name, h1.art-Logo-name a, h1.art-Logo-name a:link, h1.art-Logo-name 
 .art-BlockHeader .t
 {
 	height: 30px;
-	color: #000000;
+	color: #ffffff;
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	font-size: 14px;
 	white-space : nowrap;
@@ -1099,14 +1099,14 @@ a img
 	line-height:inherit;
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	font-size: 26px;
-	color: #114A5F;
+	color: #757bab;
 }
 
 .art-PostHeaderIcon-wrapper, .art-PostHeaderIcon-wrapper a, .art-PostHeaderIcon-wrapper a:link, .art-PostHeaderIcon-wrapper a:visited, .art-PostHeaderIcon-wrapper a:hover
 {
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	font-size: 26px;
-	color: #114A5F;
+	color: #333a6d;
 }
 
 .art-PostHeaderIcon-wrapper img
@@ -1123,7 +1123,7 @@ a img
   font-family: Georgia, "Times New Roman", Times, Serif;
   text-decoration: none;
   text-align: left;
-  color: #155B75;
+  color: #333a6d;
 }
 
 .art-PostHeader a:visited, .art-PostHeader a.visited
@@ -1494,14 +1494,14 @@ vertical-align:text-bottom;
 .art-Footer .art-Footer-text
 {
 	display:inline-block;
-	color:#155F79;
+	color:#ffffff;
 	font-family: Georgia, "Times New Roman", Times, Serif;
 }
 
 .art-Footer .art-Footer-text a:link
 {
 	text-decoration: none;
-	color: #186986;
+	color: #ffffff;
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	text-decoration: none;
 }
@@ -1517,7 +1517,7 @@ vertical-align:text-bottom;
 .art-Footer .art-Footer-text a:hover
 {
 	text-decoration: none;
-	color: #1F8BB2;
+	color: #c5c9e6;
 	font-family: Georgia, "Times New Roman", Times, Serif;
 	text-decoration: none;
 }
