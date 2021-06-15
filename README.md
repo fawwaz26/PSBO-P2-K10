@@ -12,7 +12,7 @@ Forum Menfess IPB adalah media forum berbasis web untuk para mahasiswa IPB berpe
 
 
 #### User Analysis
-Website Forum Menfess IPB memiliki 1 pengguna, yaitu mahasiswa. Mahasiswa pengguna website Forum Menfess IPB dibagi menjadi 2 lagi, mahasiswa yang membuat post dan juga mahasiswa yang me-reply-nya. Kedua hal tersebut dapat dilakukan secara anonim atau tanpa identitas. Sehingga mahasiswa dapat leluasa mengeluarkan pendapatnya tanpa khawatir identitasnya diketahui. 
+Website Forum Menfess IPB memiliki 1 jenis pengguna, yaitu mahasiswa. Mahasiswa pengguna website Forum Menfess IPB dibagi menjadi 2 lagi, mahasiswa yang membuat post dan juga mahasiswa yang me-reply-nya. Kedua hal tersebut dapat dilakukan secara anonim atau tanpa identitas. Sehingga mahasiswa dapat leluasa mengeluarkan pendapatnya tanpa khawatir identitasnya diketahui. 
 
 ##### User Stories
 Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga tidak ingin identitas saya diketahui ketika saya berpendapat, agar saya dapat berpendapat dengan lebih leluasa.  
@@ -58,9 +58,6 @@ Alasan kami menggunakan waterfall method adalah karena memiliki tahapan yang lin
 ![Activity Diagram reply](https://user-images.githubusercontent.com/48718969/121915828-c8d53280-cd5d-11eb-88b5-bcb6489e074b.png)
 
 
-Lorem Ipsum
-
-
 
 # Hasil Implementasi
 [`^ kembali ke atas ^`](#)
@@ -83,11 +80,4 @@ Lorem Ipsum
 
 
 
-# Referensi
-[`^ kembali ke atas ^`](#)
 
-1. 
-2. 
-3. 
-4. 
-5. 
