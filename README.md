@@ -83,7 +83,6 @@ Lorem Ipsum
 [`^ kembali ke atas ^`](#)
 
 Sistem yang kami buat masih perlu dikembangkan lebih lanjut, karena kelompok kami tidak menggunakan framework dalam pengembangan (PHP Native) sehingga sistem yang kami buat terasa "basic". Disarankan menggunakan framework bila ingin membuat sistem yang serupa agar pengembangan lebih mudah.
-Lorem Ipsum
 
 
 
