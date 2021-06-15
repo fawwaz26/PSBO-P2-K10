@@ -84,9 +84,9 @@ Lorem Ipsum
 
 | Nama                   |      NIM        |      Jobdesk     |
 | ---------------------- | --------------- | ---------------- |
-| Yuda Baskara           | G64180046       |  Project Manager |
+| Yuda Baskara           | G64180046       |  Project Manager, User Analyst |
 | Ahmad Tedy Murtadho    | G64180082       |  Back End        |
-| Muhammad Andhika Gema  | G64180055       |  UI/UX Designer  |
+| Muhammad Andhika Gema  | G64180055       |  UI/UX Designer, Front End  |
 | Fawwaz Khairi          | G64180042       |  Front End       |
 | Muhammad Khadafi       | G64180039       |  System Analyst  |
 
