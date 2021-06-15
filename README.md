@@ -39,7 +39,9 @@ Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
 # Tipe Desain Pengembangan
 [`^ kembali ke atas ^`](#)
 
-Lorem Ipsum
+Pada projek kali ini, kami menggunakan tipe desain pengembangan waterfall method. Waterfall method adalah tipe desain pengembangan yang bergerak linear, beurutan, dan sistematis. Tahap yang dilakukan pada waterfall adalah requirements, design, implementation, verification, dan terakhir maintenance. Salah satu kelebihan waterfall method adalah sangat sistematis dan linear, tahap selanjutnya tidak dapat dilakukan sebelum tahap sebelumnya selesai. Tetapi waterfall method juga memiliki kekurangan, antara lain adalah karena memiliki tahap yang linear, projek yang kompleks yang sering melakukan perubahan requirements tidak cocok menggunakan metode ini.
+
+Alasan kami menggunakan waterfall method adalah karena memiliki tahapan yang linear dan sistematis, sehingga cocok untuk kami yang masih memiliki banyak kendala dan butuh banyak belajar dalam men-develop aplikasi, terutama yang berbasis web seperti ini. Alasan lainnya adalah aplikasi yang kami buat tidak membutuhkan perubahan requirements yang terus menerus dan juga waterfall method salah satu metode yang sangat cocok untuk membuat aplikasi sederhana. 
 
 
 
