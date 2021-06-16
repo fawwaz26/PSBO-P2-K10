@@ -22,27 +22,16 @@
                         <div class="art-Post-inner">
 `                            <h2 class="art-PostHeaderIcon-wrapper">
                                 <img src="res/images/welcome.jpg" width="9" height="9" alt="PostHeaderIcon" />
-                                <span class="art-PostHeader">Welcome</span>
+                                <span class="art-PostHeader">Selamat Datang di IPB Menfess</span>
                             </h2>
                             <div class="art-PostContent">
 
 
-<p align="justify"><b>THIS PROJECT IS BROUGHT TO YOU BY CODE-PROJECTS. FOR MORE PROJECTS, LOG ON TO www.code-projects.org. The Technical Discussion Forum(TDS)</b> is a discussion forum that gives information about various programming languages, general knowledge related questions, information related to Asp.net,Vb.net,Php,Os related questions ,etc. </p>
+<p align="justify">Tempat dimana kamu bisa bertanya dan menulis keluh kesah mengenai akademik, kebijakan rektorat, kehidupan kampus, maupun pertanyaan receh disaat kamu gabut.</p>
 
-<p align="justify">This forum is useful for the beginners to get information  related to  various topics. There is a centralized database in which all the information is managed. The administrator acts as the highest authority and has the rights to update the database. There are also connected user who acts as an intermediate user who can also answer the questions of the end-user if they know it. The intermediate user can also cache the information provided by the administrator to the end-user. This cached information is useful when the same question is repeated some another user , then the intermediate user can get the information from cache memory and reply to the end-user. This reduces the response time.</p>
+<p align="justify"><b>IPB Menfess</b> terbuka bagi seluruh civitas akademika IPB.</p>
 
-<p align="justify">Whenever a question is asked by the end-user to get information ,it is received by the administrator who fetches the information from the database and reply to the end-user. Whenever the new information is arrived it is updated by the end-user. The end-user is provided with the access rights which is  managed by the administrator. The access to the database is provided to the end-user according to these rights only.</p>
-
-                                <p align="justify">The technological discussion form gives specific information to the programmers about programming languages.It is also helpful for the beginners to gain information about programming languages from the same site only.It is very useful site for the beginners to gain information as well as learn new programming languages very easily.The goal of this site is to provide information about the technical related questions and language related questions to the end user.</p>
-<p align="justify">When the user asks the answer of the questions is replied by either the administrator or the admin-connected user.When the administrator replies to the questions the admin-connected user will cache them in the memory.This will  helpful when the user again ask about the same questions the admin-connected will the  reply the answer of the question directly from the cache-memory
-</p>
-                                <p>
-                                	<span class="art-button-wrapper">
-                                		<span class="l"> </span>
-                                		<span class="r"> </span>
-                                		<a class="art-button" href="javascript:void(0)">Read more...</a>
-                                	</span>
-                                </p>
+<p align="justify">Enjoy!</p>
 
 
                             </div>
@@ -65,65 +54,36 @@
                         <div class="art-Post-inner">
                             <h2 class="art-PostHeaderIcon-wrapper">
                                 <img src="res/images/welcome.jpg" width="9" height="9" alt="PostHeaderIcon" />
-                                <span class="art-PostHeader">Who uses our site?</span>
+                                <span class="art-PostHeader">Bagaimana cara bertanya atau menulis keluh kesah?</span>
                             </h2>
                             <div class="art-PostContent">
 
 
 
-                                  <p align="justify">Our site can help the new comers about getting information about programming languages.It will also be useful for getting information about various technical questions.Users can satisfy their needs of getting information related to various programming languages from a single source.To make a form that give information about various technical questions .
-The questions are based on various programming languages.
-The various questions are like how to setup the languages, datatypes etc.
-</p>
+                                  <p align="justify">1. Lakukan pendaftaran jika kalian belum memiliki akun, jika sudah memiliki akun langsung login ke dalam akun.</p>
+                                  <p align="justify">2. Pilih topik dan subtopik sesuai keinginan kalian.</p>
+                                  <p align="justify">3. Klik "Ask question", tulis pertanyaan atau keluh kesah kalian.</p>
+                                  <p align="justify">4. Selamat pertanyaan atau keluh kesah kalian telah berhasil terposting secara anonim.</p>
 
 
                                 	<p>
                                 		<span class="art-button-wrapper">
                                 			<span class="l"> </span>
                                 			<span class="r"> </span>
-                                			<a class="art-button" href="javascript:void(0)">Join&nbsp;Now!</a>
+                                			<a class="art-button" href="register.php">Join&nbsp;Now!</a>
                                 		</span>
                                 	</p>
 
+
+
                             </div>
-                            <div class="cleared"></div>
+
                         </div>
 
                             </div>
                         </div>
                     </div>
                     <div class="art-sidebar1">
-                        <div class="art-Block">
-                            <div class="art-Block-body">
-                                <div class="art-BlockHeader">
-                                    <div class="l"></div>
-                                    <div class="r"></div>
-                                    <div class="art-header-tag-icon">
-                                        <div class="t">Newsletter</div>
-                                    </div>
-                                </div><div class="art-BlockContent">
-                                    <div class="art-BlockContent-tl"></div>
-                                    <div class="art-BlockContent-tr"></div>
-                                    <div class="art-BlockContent-bl"></div>
-                                    <div class="art-BlockContent-br"></div>
-                                    <div class="art-BlockContent-tc"></div>
-                                    <div class="art-BlockContent-bc"></div>
-                                    <div class="art-BlockContent-cl"></div>
-                                    <div class="art-BlockContent-cr"></div>
-                                    <div class="art-BlockContent-cc"></div>
-                                    <div class="art-BlockContent-body">
-                                        <div><form action="" method="get" id="newsletterform" action="javascript:void(0)">
-                                        <input type="text" value="" name="email" id="s" style="width: 95%;" />
-                                        <span class="art-button-wrapper">
-                                        	<span class="l"> </span>
-                                        	<span class="r"> </span>
-                                        	<input class="art-button" type="submit" name="search" value="Subscribe"/>
-                                        </span>
-                                        </form></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="art-Block">
                             <div class="art-Block-body">
                                 <div class="art-BlockHeader">
@@ -173,8 +133,8 @@ The various questions are like how to setup the languages, datatypes etc.
 										</script>
                                         <form action="loginH.php" method="POST" onsubmit="return check(this)">
 <table>
-<tr><td>User Id:</td></tr><tr><td><input type="text" name="uid"><span id='spuid' style="color: red;"></span></td></tr>
-<tr><td>Password:</td></tr><tr><td><input type="password" name="pwd"><span id='spuid' style="color: red;"></span></td></tr>
+<tr><td>User Id:</td></tr><tr><td><input type="text" name="uid" style="width:140px;"><span id='spuid' style="color: red;"></span></td></tr>
+<tr><td>Password:</td></tr><tr><td><input type="password" name="pwd" style="width:140px;"><span id='spuid' style="color: red;"></span></td></tr>
 <tr><td><input type="submit" value="login"><input type="reset" value="cancel"></td></tr>
 <tr><td><a href="register.php"><input type="button" value="Sign Up"></a></td></tr>
 </table>
@@ -195,52 +155,6 @@ The various questions are like how to setup the languages, datatypes etc.
                             </div>
                         </div>
                     </div>
-                    <div class="art-sidebar2">
-                        <div class="art-Block" >
-                            <div class="art-Block-body">
-                                <div class="art-BlockHeader">
-                                    <div class="l"></div>
-                                    <div class="r"></div>
-                                    <div class="art-header-tag-icon">
-                                        <div class="t">Highlights</div>
-                                    </div>
-                                </div><div class="art-BlockContent">
-                                    <div class="art-BlockContent-tl"></div>
-                                    <div class="art-BlockContent-tr"></div>
-                                    <div class="art-BlockContent-bl"></div>
-                                    <div class="art-BlockContent-br"></div>
-                                    <div class="art-BlockContent-tc"></div>
-                                    <div class="art-BlockContent-bc"></div>
-                                    <div class="art-BlockContent-cl"></div>
-                                    <div class="art-BlockContent-cr"></div>
-                                    <div class="art-BlockContent-cc"></div>
-                                    <div class="art-BlockContent-body">
-                                      <marquee direction="up" onmouseover="stop()" onmouseout="start()" scrollamount="1" scrolldelay="1" style="height:400px;">  <div>
-                                                          <p><b>Jun 14, 2012</b><br/>
-                                                          Aliquam sit amet felis. Mauris semper,
-                                                          velit semper laoreet dictum, quam
-                                                          diam dictum urna, nec placerat elit
-                                                          nisl in quam. Etiam augue pede,
-                                                          molestie eget, rhoncus at, convallis
-                                                          ut, eros. Aliquam pharetra.<br/>
-                                                          <a href="javascript:void(0)">Read more...</a></p>
 
-                                                          <p><b>Apr 24, 2012</b><br/>
-                                                          Aliquam sit amet felis. Mauris semper,
-                                                          velit semper laoreet dictum, quam
-                                                          diam dictum urna, nec placerat elit
-                                                          nisl in quam. Etiam augue pede,
-                                                          molestie eget, rhoncus at, convallis
-                                                          ut, eros. Aliquam pharetra.<br/>
-                                                          <a href="javascript:void(0)">Read more...</a></p>
-                                                          </div>
-		</marquee>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="cleared"></div><div class="art-Footer">
 
                     <?php require("footer.php")?>

@@ -7,11 +7,28 @@
 	<h1>Contact Us</h1>
     <table>
 
-
-    <tr><td rowspan="4"><img src="ups/CODEPROJECTS.jpg" style='height:100px; width:100px';></td><td>Name</td><td>:</td><td>Code-Projects</td></tr>
-    <tr><td rowspan="1">Contact No</td><td>:</td><td>xxxxxxxxxx</td></tr>
-    <tr><td rowspan="1">E-Mail Add</td><td>:</td><td>codeprojects@gmail.com</td></tr>
-   <tr><td rowspan="1">Website</td><td>:</td><td><a href="http://www.code-projects.org/">www.code-projects.org</a></td></tr>
+    <td>Name</td><td>:</td><td>Ahmad Tedy Murtadho</td></tr>
+    <tr><td rowspan="1">E-Mail</td><td>:</td><td>tedy_murtadho@apps.ipb.ac.id</td></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <td>Name</td><td>:</td><td>Yuda Baskara</td></tr>
+    <tr><td rowspan="1">E-Mail</td><td>:</td><td>yuda_161@apps.ipb.ac.i</td></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <td>Name</td><td>:</td><td>Muhammad Khadafi</td></tr>
+    <tr><td rowspan="1">E-Mail</td><td>:</td><td>khadafi_00@apps.ipb.ac.id</td></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <td>Name</td><td>:</td><td>Fawwaz Khairi</td></tr>
+    <tr><td rowspan="1">E-Mail</td><td>:</td><td>fawwaz_92@apps.ipb.ac.id</td></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <td>Name</td><td>:</td><td>Andhika Gema</td></tr>
+    <tr><td rowspan="1">E-Mail</td><td>:</td><td>andhika_gemap@apps.ipb.ac.id</td></tr>
     </table>
 
 <?php require("footer.php"); ?>

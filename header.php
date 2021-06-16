@@ -36,8 +36,9 @@ ob_start();
             <div class="art-Sheet-body">
                 <div class="art-Header">
                     <div class="art-Header-jpg"></div>
+                    <div><img src="res/images/logo.png";></div>
                     <div class="art-Logo">
-                        <h1 id="name-text" class="art-Logo-name"><a href="https://code-projects.org/">IPB Menfess</a></h1>
+                        <h1 id="name-text" class="art-Logo-name">IPB Menfess</h1>
                         <div id="slogan-text" class="art-Logo-text"><b>Forum keluh kesah mahasiswa IPB</b></div>
                     </div>
                 </div>
@@ -55,7 +56,7 @@ ob_start();
                 		<li><a href="contact.php" id="acontact"><span class="l"></span><span class="r"></span><span class="t">Contact</span></a></li>
 
 
-<li><a href="messages.php" id="amessage"><span class="l"></span><span class="r"></span><span class="t">Message</span></a></li>
+
 
 </ul>
                 </div>

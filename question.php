@@ -16,13 +16,13 @@
 				else if(f.ta.value=="")
 				{
 					document.getElementById("b").innerHTML="Please,Enter The Question";
-					//alert("Please,Enter The Question")
+					//alert("Please,Enter The Question")}
 					f.ta.focus();
 					return false;
-		        }
+		}
 			   else
 			   return true;
-		}
+			}
 			
 			
 	</script>
