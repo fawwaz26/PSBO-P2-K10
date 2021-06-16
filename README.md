@@ -77,7 +77,15 @@ Fungsi utama dari aplikasi yang kami kembangkan adalah pengguna dapat mem-postin
 # Hasil Implementasi
 [`^ kembali ke atas ^`](#)
 
-Lorem Ipsum
+![About](https://user-images.githubusercontent.com/60166802/122148812-48a9ec80-ce85-11eb-8d15-eba32884e708.png)
+![Register](https://user-images.githubusercontent.com/60166802/122148823-4b0c4680-ce85-11eb-8da2-7c768d0f73f2.png)
+![Home dan login](https://user-images.githubusercontent.com/60166802/122148825-4cd60a00-ce85-11eb-9866-cbaf04266558.png)
+![Home after login](https://user-images.githubusercontent.com/60166802/122148832-4fd0fa80-ce85-11eb-81e9-9f206d43a03b.png)
+![Forum](https://user-images.githubusercontent.com/60166802/122148846-552e4500-ce85-11eb-95df-488aed3a5bd8.png)
+![Ask question](https://user-images.githubusercontent.com/60166802/122148851-58c1cc00-ce85-11eb-9817-529e05b4009f.png)
+![Contact](https://user-images.githubusercontent.com/60166802/122148858-5a8b8f80-ce85-11eb-8049-6d60361588bd.png)
+![Logout](https://user-images.githubusercontent.com/60166802/122148872-5fe8da00-ce85-11eb-9446-dd663f8fb559.png)
+
 
 
 
