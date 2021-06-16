@@ -70,7 +70,7 @@ Alasan kami menggunakan waterfall method adalah karena memiliki tahapan yang lin
 #### Arsitektur Sistem
 <h1 align="left"><img src="SystemArchitecture.png"></h1>
 
-##### Fungsi Utama yang Dikembangkan
+#### Fungsi Utama yang Dikembangkan
 Fungsi utama dari aplikasi yang kami kembangkan adalah pengguna dapat mem-posting sesuatu secara anonim pada topik tertentu yang sudah disediakan di website. Pengguna juga dapat me-reply post dari pengguna lain secara anonim juga. 
 
 
