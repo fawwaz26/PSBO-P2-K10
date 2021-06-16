@@ -23,7 +23,7 @@ Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga t
 Visual Code Studio, PHP Native, CSS, JavaScript, mySQL, Xampp, Github
 
 ##### Hardware
-Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR dual channel, 1000 GB HDD
+Intel Core i5-8250U, NVIDIA GeForce mx 150, 8 GB DDR4, 1000 GB HDD
 
 
 
