@@ -92,7 +92,7 @@ Fungsi utama dari aplikasi yang kami kembangkan adalah pengguna dapat mem-postin
 # Saran
 [`^ kembali ke atas ^`](#)
 
-Sistem yang kami buat masih perlu dikembangkan lebih lanjut, karena kelompok kami tidak menggunakan framework dalam pengembangan (PHP Native) sehingga sistem yang kami buat terasa "basic". Disarankan menggunakan framework bila ingin membuat sistem yang serupa agar pengembangan lebih mudah.
+Sistem yang kami buat masih perlu dikembangkan lebih lanjut, karena kelompok kami tidak menggunakan framework dalam pengembangan (PHP Native) sehingga sistem yang kami buat terasa "basic". Disarankan menggunakan framework bila ingin membuat sistem yang serupa agar pengembangan lebih mudah. Pada sistem ini Administrator belum bisa langsung menambahkan atau menghapus topik/subtopik pada aplikasi (harus menggunakan PHPMyAdmin), sehingga perlu dibuat fitur untuk admin menginput/delete topik pada aplikasi.
 
 
 
