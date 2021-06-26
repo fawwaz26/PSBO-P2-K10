@@ -13,6 +13,7 @@ $add=$_POST['add'];
 $sta=$_POST['sta'];
 $cou=$_POST['cou'];
 
+
 $pwd= password_hash($pwd, PASSWORD_DEFAULT);
 
 $ima = $_FILES['ima']['name'];
@@ -24,13 +25,23 @@ move_uploaded_file($imup, $path);
 
 //$image = chunk_split(base64_encode(file_get_contents( $imup )));
 
+
 $sql1 = "SELECT username FROM user WHERE username = '$u_name'";
 $result1= ExecuteNonQuery ($sql1);
 if(mysqli_fetch_assoc($result1)){
     echo "<script>
         alert('username sudah terdaftar!')
+        window.location.href='register.php';
           </script>";
     return false;
+}
+
+if (!filter_var($e_mail, FILTER_VALIDATE_EMAIL)) {
+      echo "<script>
+        alert('Invalid email format!')
+        window.location.href='register.php';
+          </script>";
+      return false;
 }
 
 $sql=" INSERT INTO user (username,fullname,password,e_mail,gender,dob,user_type,address,state,country,uimg) values ('$u_name','$f_name','$pwd','$e_mail','$gender','$dob','user','$add','$sta','$cou','$path')";
