@@ -15,7 +15,8 @@ Forum Menfess IPB adalah media forum berbasis web untuk para mahasiswa IPB berpe
 Website Forum Menfess IPB memiliki 1 jenis pengguna, yaitu mahasiswa. Mahasiswa pengguna website Forum Menfess IPB dibagi menjadi 2 lagi, mahasiswa yang membuat post dan juga mahasiswa yang me-reply-nya. Kedua hal tersebut dapat dilakukan secara anonim atau tanpa identitas. Sehingga mahasiswa dapat leluasa mengeluarkan pendapatnya tanpa khawatir identitasnya diketahui. 
 
 ##### User Stories
-Saya, sebagai mahasiswa IPB ingin dapat mengutarakan keresahan saya, saya juga tidak ingin identitas saya diketahui ketika saya berpendapat, agar saya dapat berpendapat dengan lebih leluasa.  
+![User Stories PSBO](https://user-images.githubusercontent.com/48718969/123515940-c8c12500-d6c3-11eb-9a5c-49aab2093095.png)
+
 
 
 #### Spesifikasi
