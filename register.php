@@ -17,42 +17,42 @@
 			if (form1.u_name.value == "")
 			{
 				document.getElementById("a").innerHTML = "Please, Enter user name.";
-				//alert("Please, Enter The Username");
-			form1.u_name.form1.focus();
+			    //alert("Please, Enter The Username");
+			    //form1.u_name.form1.focus();
 				
 			}
 			else
 			{
 				document.getElementById("a").innerHTML = "";
 				//alert("Please, Enter The Username");
-				form1.u_name.focus();
+				//form1.u_name.focus();
 				
 			}
 			 if (form1.f_name.value == "")
 			{
 				document.getElementById("b").innerHTML = "Please, Enter full name.";
 				//alert ("Please,Please Enter The Fullname");
-				form1.f_name.focus();
+				//form1.f_name.focus();
 				
 			}
 			else
 			{
 				document.getElementById("b").innerHTML = "";
 				//alert ("Please,Please Enter The Fullname");
-				form1.f_name.focus();
+				//form1.f_name.focus();
 			}
 			 if (form1.pwd.value == "")
 			{
 				document.getElementById("c").innerHTML = "Please, Enter password.";
 				//alert ("Please,Please Enter The Password");
-				form1.pwd.focus();
+				//form1.pwd.focus();
 				
 			}
 			else
 			{
 				document.getElementById("c").innerHTML = "";
 				//alert ("Please,Please Enter The Password");
-				form1.pwd.focus();
+				//form1.pwd.focus();
 
 			}
 			
@@ -60,80 +60,80 @@
 			{
 				document.getElementById("d").innerHTML = "Please, Enter e-mail address.";
 				//alert ("Please,Please Enter The E-mail Address");
-				form1.e_mail.focus();
+				//form1.e_mail.focus();
 				
 			}
 			else
 			{
 				document.getElementById("d").innerHTML = "";
 				//alert ("Please,Please Enter The E-mail Address");
-				form1.e_mail.focus();
+				//form1.e_mail.focus();
 			}
 			 if (form1.gender.value == "")
 			{
 				document.getElementById("spuid").innerHTML = "Please, Enter the gender.";
 				//alert("Please,Please Enter The Gender");
-				form1.gender.focus();
+				//form1.gender.focus();
 				
 			}else
 			{
 				document.getElementById("spuid").innerHTML = "";
 				//alert("Please,Please Enter The Gender");
-				form1.gender.focus();
+				//form1.gender.focus();
 			}
 			 if (form1.dob.value == "")
 			{
 				document.getElementById("e").innerHTML = "Please, Enter date of birth.";
-		//		alert ("Please,Please Enter The Date Of Birth");
-				form1.dob.focus();
+		    	//alert ("Please,Please Enter The Date Of Birth");
+				//form1.dob.focus();
 				
 			}
 			else
 			{
 				document.getElementById("e").innerHTML = "";
-		//		alert ("Please,Please Enter The Date Of Birth");
-				form1.dob.focus();
+		        //alert ("Please,Please Enter The Date Of Birth");
+				//form1.dob.focus();
 
 			}
 			 if (form1.add.value == "")
 			{
 				document.getElementById("f").innerHTML = "Please, Enter address.";
 				//alert ("Please,Please Enter The Address");
-				form1.add.focus();
+				//form1.add.focus();
 				
 			}
 			else
 			{
 				document.getElementById("f").innerHTML = "";
 				//alert ("Please,Please Enter The Address");
-				form1.add.focus();
+				//form1.add.focus();
 			}
 			 if (form1.sta.value == "")
 			{
 				document.getElementById("g").innerHTML = "Please, Enter state.";
 				//alert ("Please,Please Enter The State");
-				form1.sta.focus();
+				//form1.sta.focus();
 				
 			}
 			else
 			{
 				document.getElementById("g").innerHTML = "";
 				//alert ("Please,Please Enter The State");
-				form1.sta.focus();
+				//form1.sta.focus();
 
 			}
 			 if (form1.cou.value == "")
 			{
 				document.getElementById("h").innerHTML = "Please, Enter country.";
 				//alert ("Please,Please Enter The Country");
-				form1.cou.focus();
+				//form1.cou.focus();
 				
 			}
 			else
 			{
 				document.getElementById("h").innerHTML = "";
 				//alert ("Please,Please Enter The Country");
-				form1.cou.focus();
+				//form1.cou.focus();
 			}
 			return false;
 		}
